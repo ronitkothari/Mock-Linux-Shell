@@ -1,5 +1,4 @@
-
-### <p align="center"> :exclamation::exclamation::exclamation: <br></br> (moving the project to Git resulted in loss of commit history [lost access to remote repository], However we recorded them in our dailyScrumMeetings folder provided above if interested) <br></br> :exclamation::exclamation::exclamation:</p>
+(moving the project to Git resulted in loss of commit history [lost access to remote repository], However we recorded them in our dailyScrumMeetings folder provided above if interested)
 
 
 # Mock-Linux-Shell
